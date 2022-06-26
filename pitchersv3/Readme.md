@@ -11,11 +11,14 @@ SNAP product co-purchasing networks
 ### Team Members
 
 - Yaswanth Biruduraju|2024|Manipal Institute of Technology
+
 - Mihir Agarwal|2024|Manipal Institute of Technology
+
 - Pratinav Seth|2024|Manipal Institute of Technology
+
 - Siddharth Singh|2024|Manipal Institute of Technology
 
-###Team Mentors
+### Team Mentors
 - .
 - .
 
