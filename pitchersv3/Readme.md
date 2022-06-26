@@ -1,7 +1,11 @@
 # Pitchers-3:
 
 ## Problem Statement
+
 SNAP product co-purchasing networks
+
+![image](https://user-images.githubusercontent.com/72119231/175799083-5db57e46-a957-46a3-af94-9f0fdfe055af.png)
+
 
 ## Team Phoenix
 ### Team Members
