@@ -1,5 +1,28 @@
 # Final Submission:
 
+## Problem Statement
+SNAP product co-purchasing networks
+
+## Team Phoenix
+### Team Members
+
+- Yaswanth Biruduraju|2024|Manipal Institute of Technology
+- Mihir Agarwal|2024|Manipal Institute of Technology
+- Pratinav Seth|2024|Manipal Institute of Technology
+- Siddharth Singh|2024|Manipal Institute of Technology
+
+###Team Mentors
+- .
+- .
+
+### Proposed Problem Statements and Solutions-
+
+- Product Recommendation System basis of Feature Extracted from the product details and the co-purchases made.
+
+- Similar Products Recommendation System which might make customers explore other options
+
+- Recommendation of products based on their Consumer Confidence and category similarity using different metrics.
+
 ## Notebook Details-
 
 Considering the fact customer is searching for a product or viewing a product . We try to recommend products to the consumer based on various aspects of product features, customer ratings and co-purchases made among varies products listed.
