@@ -1,7 +1,10 @@
 # Final Submission:
 
 ## Problem Statement
+
 SNAP product co-purchasing networks
+
+![image](https://user-images.githubusercontent.com/72119231/175799027-dafcd190-bb40-4254-bd51-bda1d7fca420.png)
 
 ## Team Phoenix
 ### Team Members
